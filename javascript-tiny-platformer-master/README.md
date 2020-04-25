@@ -19,8 +19,4 @@ DEVELOPMENT
 
 The game is 100% client side javascript, html and css. It should run when served up by any web server.
 
-License
-=======
-
-[MIT](http://en.wikipedia.org/wiki/MIT_License) license.
 
